@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/save.png</file>
+        <file>images/open.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/edit.png</file>
+        <file>images/exit.png</file>
+        <file>images/icon.xpm</file>
+        <file>images/new.png</file>
+        <file>images/paste.png</file>
+        <file>images/qt.jpg</file>
+        <file>images/admin.png</file>
+        <file>images/continue.svg</file>
+        <file>images/3.jpg</file>
+        <file>images/gedit-logo.png</file>
+        <file>images/_exit.png</file>
+        <file>images/logo.png</file>
+    </qresource>
+    <qresource prefix="/HTML">
+        <file>result.html</file>
+        <file>print.html</file>
+    </qresource>
+    <qresource prefix="/courses">
+        <file>comsci</file>
+        <file>fstdep</file>
+        <file>sltdep</file>
+        <file>stadep</file>
+    </qresource>
+</RCC>
